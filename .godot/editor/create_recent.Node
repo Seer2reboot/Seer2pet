@@ -1,0 +1,7 @@
+AnimationPlayer
+Timer
+OptionButton
+AnimatedSprite2D
+Sprite2D
+CollisionShape2D
+CharacterBody2D
