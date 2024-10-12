@@ -1,6 +1,8 @@
 # Seer2pet
-Seer2 风格桌面宠物
+使用Godot 制作的 Seer2 风格桌面宠物
 
+## 版本开发号码
+V0.2
 ## 编译引擎
 Godot 4.2.2
 
